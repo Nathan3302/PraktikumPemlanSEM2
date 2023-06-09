@@ -1,0 +1,9 @@
+Informasi latihanSoaldanPengayaan.no2.Buku:
+Kategori: Fiksi
+Penulis: Ayah, Ibu
+Judul: Tes konstruktor
+Bahasa: Indonesia
+Penerbit: Gramedia
+Edisi: 2
+Halaman: 105
+Sinopsis: ini adalah hanya tes dengan minimum 10 kata ya semua
